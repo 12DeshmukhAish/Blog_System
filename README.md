@@ -26,7 +26,7 @@ A web-based blog management system built with **Laravel** that enables user auth
 - **Admin Panel:** Role-based access using Middleware  
 - **Caching & Optimization:** Laravel Cache, Query Optimization  
 - **Testing:** Laravel PHPUnit  
-- **API Support (Optional):** Laravel API resources for mobile integration  
+
 
 ---
 
